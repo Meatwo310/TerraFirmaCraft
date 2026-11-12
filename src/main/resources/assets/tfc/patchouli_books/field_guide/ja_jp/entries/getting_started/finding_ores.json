@@ -54,7 +54,7 @@
     },
     {
       "type": "patchouli:text",
-      "text": "$(li)自然銅 ($(thing)銅$())$(li)自然金 ($(thing)金$())$(li)赤鉄鉱 ($(thing)鋳鉄$())$(li)自然銀 ($(thing)銀$())$(li)錫石 ($(thing)錫$())$(li)輝蒼鉛鉱 ($(thing)蒼鉛(ビスマス)$())$(li)珪ニッケル鉱 ($(thing)ニッケル$())$(li)孔雀石 ($(thing)銅$())$(li)磁鉄鉱 ($(thing)鋳鉄$())$(li)褐鉄鉱 ($(thing)鋳鉄$())$(li)閃亜鉛鉱 ($(thing)亜鉛$())$(li)安四面銅鉱 ($(thing)銅$())",
+      "text": "$(li)自然銅 ($(thing)銅$())$(li)自然金 ($(thing)金$())$(li)赤鉄鉱 ($(thing)鋳鉄$())$(li)自然銀 ($(thing)銀$())$(li)錫石 ($(thing)錫$())$(li)輝蒼鉛鉱 ($(thing)蒼鉛(ビスマス)$())$(li)珪ニッケル鉱 ($(thing)ニッケル$())$(li)孔雀石 ($(thing)銅$())$(li)磁鉄鉱 ($(thing)鋳鉄$())$(li)褐鉄鉱 ($(thing)鋳鉄$())$(li)閃亜鉛鉱 ($(thing)亜鉛$())$(li)四面銅鉱 ($(thing)銅$())",
       "title": "小さな鉱石"
     },
     {

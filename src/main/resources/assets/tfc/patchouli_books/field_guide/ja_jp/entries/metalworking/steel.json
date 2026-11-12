@@ -33,7 +33,7 @@
     },
     {
       "type": "patchouli:text",
-      "text": "$(thing)黒鋼$() は、ツールや $(l:mechanics/armor)防具$() の作成に使用でき、$(l:metalworking/steel#blue_steel)青鋼$()と$(l:metalworking/steel#red_steel)赤鋼$() の作成の重要な材料としても使用されます) "
+      "text": "$(thing)黒鋼$() は、ツールや $(l:mechanics/armor)防具$() の作成に使用でき、$(l:metalworking/steel#blue_steel)青鋼$()と$(l:metalworking/steel#red_steel)赤鋼$() の作成の重要な材料としても使用されます。"
     },
     {
       "type": "patchouli:text",

@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:text",
-      "text": "動物はいくつかの異なるカテゴリに分類できます: $(l:the_world/wild_animals#predators)肉食動物$()、$(l:the_world/wild_animals#prey)獲物$()、$(l:the_world/wild_animals#aquatic) )水生$() 動物。$(br2)次の数ページでは、これらの動物の各カテゴリについて詳しく説明します。"
+      "text": "動物はいくつかの異なるカテゴリに分類できます: $(l:the_world/wild_animals#predators)肉食動物$()、$(l:the_world/wild_animals#prey)獲物$()、$(l:the_world/wild_animals#aquatic)水生$() 動物。$(br2)次の数ページでは、これらの動物の各カテゴリについて詳しく説明します。"
     },
     {
       "type": "patchouli:text",

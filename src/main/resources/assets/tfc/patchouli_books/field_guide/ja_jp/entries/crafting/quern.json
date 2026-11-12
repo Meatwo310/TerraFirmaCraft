@@ -23,7 +23,7 @@
       "images": [
         "tfc:textures/gui/book/tutorial/quern_empty.png"
       ],
-      "text": "下臼の上部にカーソルを合わせ、$(item)$(k:key.use)$() して上臼を配置します。.",
+      "text": "下臼の上部にカーソルを合わせ、$(item)$(k:key.use)$() して上臼を配置します。",
       "border": true
     },
     {
